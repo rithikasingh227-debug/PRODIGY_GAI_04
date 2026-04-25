@@ -75,20 +75,10 @@ Pix2Pix is a deep learning model based on **cGAN** that:
 ---
 
 ## 🔹 Results
-
-| Input Image         | Ground Truth  | Generated Image       |
-| ------------------- | ------------- | --------------------- |
-| ![Input][GT][Output](Epoch(5)op.png) | 
+![Epoch(5 Output)](Epoch(5)op.png)
+![Epoch(50 Output)](Epoch(50)op.png)
 
 > ⚠️ Note: Initial outputs may appear blurry due to limited training epochs. Increasing epochs improves image quality.
-
----
-
-## 🔹 Output Sample
-
-* Input Image
-* Ground Truth Image
-* Generated Image
 
 ---
 
@@ -122,4 +112,4 @@ Pix2Pix is a deep learning model based on **cGAN** that:
 
 **Rithika Singh Patel**
 
-
+---

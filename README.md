@@ -78,21 +78,9 @@ Pix2Pix is a deep learning model based on **cGAN** that:
 
 | Input Image         | Ground Truth  | Generated Image       |
 | ------------------- | ------------- | --------------------- |
-| ![Input](input.png) | ![GT](gt.png) | ![Output](output.png) |
+| ![Input](Epoch(5)op.png) | ![GT](Epoch(5)op.png) | ![Output](Epoch(5)op.png) |
 
 > ⚠️ Note: Initial outputs may appear blurry due to limited training epochs. Increasing epochs improves image quality.
-
----
-
-## 🔹 How to Run
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Open in Google Colab or Jupyter Notebook
-# Run all cells step-by-step
-```
 
 ---
 
@@ -134,17 +122,4 @@ git clone https://github.com/your-username/your-repo-name.git
 
 **Rithika Singh Patel**
 
----
-
-# 💡 IMPORTANT (for your GitHub)
-
-👉 Replace:
-
-```
-input.png
-gt.png
-output.png
-```
-
-with your actual uploaded images.
 
